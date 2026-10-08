@@ -1,0 +1,1 @@
+Make a mobile-friendly browser game that merges GTA and Subway Surfers: an endless runner through neon Vice City at sunset, cops chasing you, wanted stars climbing to 5, cash to grab, a helicopter, and a WASTED screen. Single HTML file, no assets. Go all out.
